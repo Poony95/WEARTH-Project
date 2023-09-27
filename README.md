@@ -54,6 +54,9 @@
 ⭐ **적용 기술**
 ![image](https://github.com/Poony95/WEARTH-Project/assets/110014259/99d7da11-9185-4919-9c29-dd70ff3e9c6b)
 
+⭐ **ERD**   
+![wearth (1)](https://github.com/Poony95/WEARTH-Project/assets/110014259/e81443f6-f659-47a8-9fe2-957fd8f0267e)
+
 
 ⭐ **회고**
 
@@ -69,10 +72,6 @@
 
 한 달간의 프로젝트 기간 동안 단순히 열심히 프로젝트를 진행해서, 결과가 좋아서에 의미보다 팀원 모두가 서로 존중하는 마음으로, 의견을 조율하였기에 맡은 부분에 만족감을 가지고 적극적으로 임할 수 있었다는 점이 가장 인상 깊었다고 생각합니다. 실력이 좋기 만한 것이 중요한 것이 아닌 상대방의 의견을 듣는 배려와 협력하는 분위기를 만드는 것이 모두가 공동의 목표를 향해 주인 의식을 갖고 참여하는 좋은 결과를 가져올 수 밖에 없다는 사실을 깨달은 의미 있는 프로젝트였습니다.
 
-⭐ **참고 링크**
-
-💭 **ERD**       https://www.erdcloud.com/d/RNK3ua5wtr8ZZ8Du8
+⭐ **참고 링크**  
 
 📺 **동영상**   https://www.youtube.com/watch?v=B0W45BQZUZg
-
-😺 **깃허브**   https://github.com/Poony95/WEARTH-Project
