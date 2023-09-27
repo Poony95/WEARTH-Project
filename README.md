@@ -51,7 +51,7 @@
 
 
 
-**적용 기술**
+⭐ **적용 기술**
 ![image](https://github.com/Poony95/WEARTH-Project/assets/110014259/99d7da11-9185-4919-9c29-dd70ff3e9c6b)
 
 
